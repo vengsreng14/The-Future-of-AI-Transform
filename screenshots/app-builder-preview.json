@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SIGNAL 2030",
+      "hasCanvas": false,
+      "bodyTextLen": 9415,
+      "bodyTextHash": "ba0226fb9be529cb2f3e14b7f13d0b42484b458cd8848de41f9659f8700ca248",
+      "bodyTextPrefix": "S SIGNAL 2030 ISSUE 01 · SEPTEMBER 2026 BRIEFING NOW PROMISE RIS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SIGNAL 2030",
+      "hasCanvas": false,
+      "bodyTextLen": 9347,
+      "bodyTextHash": "3aab79308fdb357fa0e795457b2a0c06210063d78032ef92fb8b208c1f925b6f",
+      "bodyTextPrefix": "S SIGNAL 2030 ISSUE 01 · SEPTEMBER 2026 MADE BY KANG VENG SRENG ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

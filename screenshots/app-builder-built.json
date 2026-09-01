@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SIGNAL 2030",
+      "hasCanvas": false,
+      "bodyTextLen": 9341,
+      "bodyTextHash": "694f0f21fc32d5d5d441a80101d83261047f258c520241a306909e162e2ea1c4",
+      "bodyTextPrefix": "S SIGNAL 2030 ISSUE 01 · SEPTEMBER 2026 BRIEFING NOW PROMISE RIS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SIGNAL 2030",
+      "hasCanvas": false,
+      "bodyTextLen": 9273,
+      "bodyTextHash": "56dbc520ec26cad3d9bc95137b58b90d0a1bc2a733ada96a704eca0db8c7d350",
+      "bodyTextPrefix": "S SIGNAL 2030 ISSUE 01 · SEPTEMBER 2026 AI is no longer a demo. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
